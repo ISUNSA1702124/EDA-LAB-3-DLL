@@ -358,7 +358,7 @@ public class DoublyLinkedList<E> extends LinkedList<E> {
      * Retrieves, but does not remove, the first element of this list,
      * or returns null if this list is empty.
      *
-     * @return the first element of this list, or {@code null
+     * @return the first element of this list, or null
      * if this list is empty
      */
     @Override
